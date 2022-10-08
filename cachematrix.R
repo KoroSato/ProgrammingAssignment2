@@ -1,6 +1,9 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## The first function will first create a matrix and get the inverse of its elements. The second function will then compute the 
+## inverse matrix produced by the previous function
+
 ## Write a short comment describing this function
 
 ## The first function, makeCacheMatrix creates a special “matrix”, which is really a list containing a function to:
